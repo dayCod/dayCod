@@ -8,5 +8,6 @@
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api?username=dayCod&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayCod&theme=radical&layout=compact">
 </div>
 
