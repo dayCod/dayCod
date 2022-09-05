@@ -6,8 +6,8 @@
 - 📫 How to reach me: alayarahman07@gmail.com
 - ⚡ Facts bout Me: i'm addicted to Nicotine and Coffee
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=dayCod&show_icons=true&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayCod&theme=radical&layout=compact">
+<div style="display: flex; flex-direction: row;">
+  <img class="img" src="https://github-readme-stats.vercel.app/api?username=dayCod&show_icons=true&theme=radical">
+  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayCod&theme=radical&layout=compact">
 </div>
 
