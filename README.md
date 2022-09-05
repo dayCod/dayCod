@@ -7,5 +7,3 @@
 - ⚡ Facts bout Me: i'm addicted to Nicotine and Coffee
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayCod&show_icons=true&theme=radical)
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayCod&layout=compact)
