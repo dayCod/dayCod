@@ -5,6 +5,6 @@
 - 💬 I'm so appreciate, if y'all give me some information about React
 - 📫 How to reach me: alayarahman07@gmail.com
 - ⚡ Facts bout Me: i'm addicted to Nicotine and Coffee
-<div style="display:flex; justify-content: center; align-items: center;">
+<div style="display:flex; justify-content: center; align-items: center; min-width: 100%">
   <img src="https://github-readme-stats.vercel.app/api?username=dayCod&show_icons=true&theme=radical">
 </div>
