@@ -6,7 +6,6 @@
 - 📫 How to reach me: alayarahman07@gmail.com
 - ⚡ Facts bout Me: i'm addicted to Nicotine and Coffee
 
-<p align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayCod&show_icons=true&theme=radical)
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayCod&show_icons=true&theme=radical)
+<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayCod&layout=compact)
