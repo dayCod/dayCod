@@ -5,5 +5,6 @@
 - 💬 I'm so appreciate, if y'all give me some information about React
 - 📫 How to reach me: alayarahman07@gmail.com
 - ⚡ Facts bout Me: i'm addicted to Nicotine and Coffee
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayCod&show_icons=true&theme=radical)
+<div style="display:flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=dayCod&show_icons=true&theme=radical">
+</div>
