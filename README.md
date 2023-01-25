@@ -3,13 +3,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daycod&label=Profile%20views&color=0e75b6&style=flat" alt="daycod" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daycod" alt="daycod" /></a> </p>
+- 🔭 I’m currently working on **Laravel**
+
+- 🌱 I’m currently learning **React.js**
+
+- 👯 I’m looking to collaborate on **Laravel Project**
+
+- 👨‍💻 All of my projects are available at [https://daycod.github.io/wirandra-portfolio-web.github.io/](https://daycod.github.io/wirandra-portfolio-web.github.io/)
+
+- 💬 Ask me about **Laravel Development**
+
+- 📫 How to reach me **daycodestudioproject@gmail.com**
+
+- ⚡ Fun fact **addicted to cigarettes, coffee and beer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/wirandra alaya rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wirandra alaya rahman" height="30" width="40" /></a>
-<a href="https://instagram.com/daycode.id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daycode.id" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/wirandra alaya rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wirandra alaya rahman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/wirandra-alaya-rahman-1302b8190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wirandra-alaya-rahman-1302b8190" height="30" width="40" /></a>
+<a href="https://instagram.com/daycode_id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daycode_id" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/wirandraalayarahman294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wirandraalayarahman294" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/alayarahman07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alayarahman07" height="30" width="40" /></a>
 </p>
 
@@ -18,7 +30,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/maswir"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="maswir" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daycod&show_icons=true&locale=en&layout=compact" alt="daycod" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daycod&show_icons=true&locale=en" alt="daycod" /></p>
