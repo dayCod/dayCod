@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wirandra Alaya Rahman</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Mas Wir </h1>
 <h3 align="center">A passionate Laravel Developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daycod&label=Profile%20views&color=0e75b6&style=flat" alt="daycod" /> </p>
