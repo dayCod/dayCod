@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Laravel Project**
 
-- 👨‍💻 All of my projects are available at [https://daycod.github.io/wirandra-portfolio-web.github.io/](https://daycod.github.io/wirandra-portfolio-web.github.io/)
+- 💻 All of my projects are available at [https://daycod.github.io/wirandra-portfolio-web.github.io/](https://daycod.github.io/wirandra-portfolio-web.github.io/)
 
 - 💬 Ask me about **Laravel Development**
 
