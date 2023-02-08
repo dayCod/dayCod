@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **daycodestudioproject@gmail.com**
 
-- ⚡ Fun fact **addicted to cigarettes, coffee and beer**
+- ⚡ Fun fact **Big fan of cigarettes, coffee and beer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
