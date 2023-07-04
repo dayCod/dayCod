@@ -1,4 +1,4 @@
-# Hello, Fellas
+# Hello Fellas,
 
 Coding in my opinion is like an art that teaches how we think, communicate and solve problems, of course my opinion can be different from other people's opinions, how about yours ?
 
