@@ -1,6 +1,6 @@
 # Hello Fellas,
 
-Coding in my opinion is like an art that teaches how we think, communicate and solve problems, of course my opinion can be different from other people's opinions, how about yours ?
+Coding in my opinion is like an art that teaches how we think, communicate and solve problems, of course my opinion can be different from other people's opinions, how about you ?
 
 
 I also have a voluntary activity, namely sharing tips & tricks about the Laravel framework, which I usually put in the organization's repository, you can visit [here, dont be shy just clickit bro lol](https://github.com/LQL-ID).
